@@ -1,0 +1,11 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "browser-sync": "^2.2.1",
+    "foxy": "^10.0.2",
+    "immutable": "^3.6.2",
+    "opn": "^1.0.1",
+    "stream-throttle": "^0.1.3"
+  }
+}
